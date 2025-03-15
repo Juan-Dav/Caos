@@ -1,2 +1,3 @@
 # Caos
-Acá van a agregar su nombre
+Acá van a agregar su nombre: 
+Juan David Reina Marquez
